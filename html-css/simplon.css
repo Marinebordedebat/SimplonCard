@@ -1,0 +1,52 @@
+h1{
+    font-size: 30px;
+    font-weight: 900;
+    margin-left: 200px;
+}
+
+.bloc_parc_attraction{
+    padding: 20px;
+    border: solid 4px;
+    border-color: #b0215e;
+    margin-bottom: 20px;
+    height: 400px;
+    background-image:url(parc.avif);
+    background-size: cover;  
+    display: flex;
+    align-items: flex-end;
+}
+.bloc_adresse{
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+footer{
+   text-align: center;
+}
+.brown{
+    color: brown;
+}
+.buttonStyle{
+    border: solid 1px;
+    border-color: #b0215e;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    background-color: #b0215e;
+    color: black; 
+    
+}
+.buttonStyle:hover{
+    border: solid 1px;
+    border-color: #b0215e;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
